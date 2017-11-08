@@ -1,2 +1,10 @@
-# template-uma-pagina
+# Template para Joomla 3 usando o Bootstrap 4
+Este tempalte é o resultado de meu aprendizado na construção de um templae do zero, ou seja, sem usar um framework de templales para Joomla, para que assim eu tenha mais controle e flexibilidade. Não conclui, mas já deu para sentir o gostinho do poder de mexer. 
 Template para Joomla 3 de uma página partindo de um template para bootstrap 4.
+
+## Sugestões
+Serão muito bem vindas, juntamente com críticas construtivas, correções de algo e forks.
+
+O template do qual eu parti foi um template bem bonito, profissional, que está aqui:
+
+https://startbootstrap.com/template-overviews/creative/
