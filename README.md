@@ -8,3 +8,7 @@ Serão muito bem vindas, juntamente com críticas construtivas, correções de a
 O template do qual eu parti foi um template bem bonito, profissional, que está aqui:
 
 https://startbootstrap.com/template-overviews/creative/
+
+Captura da tela inicial:
+
+<img src="tpl_ribafs.png">
