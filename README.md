@@ -1,8 +1,5 @@
 ## Template para Joomla 3 usando o Bootstrap 4
 
-# Dizendo não para o lado negro da força (MS) mudei para o GitLab. Manterei os arquivos aqui em respeito aos usuários e ao antigo GitHub mas estarei atualizando somente no GitLab daqui pra frente.
-https://gitlab.com/ribafs/template-uma-pagina
-
 Este tempalte é o resultado de meu aprendizado na construção de um templae do zero, ou seja, sem usar um framework de templales para Joomla, para que assim eu tenha mais controle e flexibilidade. Não conclui, mas já deu para sentir o gostinho do poder de mexer. 
 Template para Joomla 3 de uma página partindo de um template para bootstrap 4.
 
