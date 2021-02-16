@@ -9,7 +9,9 @@ Serão muito bem vindas, juntamente com críticas construtivas, correções de a
 O template do qual eu parti foi um template bem bonito, profissional, que está aqui:
 
 ## Instalação
-https://github.com/ribafs/template-uma-pagina
+https://github.com/ribafs/landpage-joomla
+
+Faça o download e descompacte antes de instalar.
 
 https://startbootstrap.com/template-overviews/creative/
 
